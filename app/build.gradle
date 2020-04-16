@@ -89,4 +89,7 @@ dependencies {
     //implementation("com.sqlite:library:0.0.1@aar") { transitive = true }
     // multidex
     implementation 'androidx.multidex:multidex:2.0.1'
+
+// Debug database
+    debugImplementation 'com.amitshekhar.android:debug-db:1.0.6'
 }
